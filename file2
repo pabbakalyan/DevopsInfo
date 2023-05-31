@@ -1,0 +1,44 @@
+Application some down time. If we get any failure then the entire application downtime. 
+
+Why ? - We are maintaining 1 servers - processing and managing all the servers, applications. 
+
+Daily monitor, maintain, performance - if we want to implement any new ideas we cant able to do beacusye we dont have the time. 
+
+
+Before devops - 1 server
+After devops 	- Multiple server - 1 application - login
+    Cart
+Groceries
+
+Login - server - only this server will get downtime
+Cart - server
+Grocer
+
+DevOps - 2007 - 2008 (2007)
+
+
+DevOps - 
+
+Operating system - Linux
+Cloud platforms - AWS, Azure and GCP ( AWS)- Amazon web services
+DevOps Tools - 
+
+Git
+Github
+MAven
+Jenkins
+Ansible
+
+Based on the req - Docker, kubernets 
+
+
+Airtel - 
+Servers
+Jobs
+Application server
+Execution codes
+Test
+
+History of devops
+Why devops became so famous
+
